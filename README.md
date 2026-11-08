@@ -23,6 +23,8 @@ python calculator.py             # interactive mode
 
 
 ## How it works
+```
+
 
 sidi-calc/
 ├── calculator.py        # safe expression engine (ast-based, no eval)
@@ -33,6 +35,7 @@ sidi-calc/
 │   └── app.js           # keys, keyboard, history
 ├── test_calculator.py
 └── test_server.py
+```
 
 
 
